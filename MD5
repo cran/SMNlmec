@@ -1,9 +1,9 @@
-74e25c2ebd98c075cf4dc49e4093d7f2 *DESCRIPTION
+24ca88f1dcdf93175cf72464e5f9e537 *DESCRIPTION
 a8aa9984594003c1cd0e1a02e7addd78 *NAMESPACE
 75a7bf7095f16c0c9aac37711f12b709 *R/FunGeral.R
 0a0563ca1fdb18cc1315e45dbb3ca090 *R/MMsimuNEW.R
 9a57628334f4e16fcc70c00e3d0a27f4 *R/SMNlmec.S4class.R
-f2775eb347c1c16c64408d1823dcdbbd *R/SMNlmec.est.R
+416aad384008b35f0668121f3c3e866c *R/SMNlmec.est.R
 f3d6314b57ca051fa590c7fad2b2d7ca *R/SMNlmec.sim.R
 1a727c66804ff52ff25f1f40097905f9 *R/UTIdata.R
 89dcbfd8734e2de9c3c20832c54a6f73 *R/UTIdata_sub.R
@@ -28,7 +28,7 @@ cbba4b9b3e167bd1383b395dfdab9714 *inst/stan/lmm-UNC-N-censored-left.stan
 865e80f9a18d9c44c4745c813e08a29f *inst/stan/lmm-UNC-SL-censored-right.stan
 f796608776de7a396dfc0f30eab7345e *inst/stan/lmm-UNC-t-censored-left.stan
 3a83449c068573f5783c437230d7e54c *inst/stan/lmm-UNC-t-censored-right.stan
-bf2d8c4e559c33b7b1b90104e926e730 *man/SMNlmec.est.Rd
+c54383d409a4f3104123bd32627a9ede *man/SMNlmec.est.Rd
 128375de40cede99487caaf1c86ab889 *man/SMNlmec.sim.Rd
 270127987b9f9b88218af1aa94599d5f *man/SMNlmec.summary.Rd
 f300dbda4a7f497bb3a4676820f6330d *man/SMNlmecfit-class.Rd

@@ -47,7 +47,7 @@ SMNlmec.est(
 
 \item{iter_num}{A positive integer specifying the number of iterations for each chain (including warmup). The default is 5000.}
 
-\item{burn_percen}{A percentage of the warm-up iterations in each chain the Stan. The default is 0.2.}
+\item{burn_percen}{A percentage of the warm-up iterations in each chain the Stan. The default is 0.1.}
 
 \item{seed_set}{A random seed. The default is NULL.}
 

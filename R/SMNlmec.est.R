@@ -28,7 +28,7 @@
 #' @param thin_num A positive integer specifying the period for saving samples. The default is 5. See more details in rstan::stan().
 #' @param chains_num A positive integer specifying the number of chains generating by rstan::stan(). The default is 3.
 #' @param iter_num A positive integer specifying the number of iterations for each chain (including warmup). The default is 5000.
-#' @param burn_percen A percentage of the warm-up iterations in each chain the Stan. The default is 0.2.
+#' @param burn_percen A percentage of the warm-up iterations in each chain the Stan. The default is 0.1.
 #' @param seed_set A random seed. The default is NULL.
 #' @param adapt_delta_set A parameter to control the sampler's behavior. The default is 0.8. See rstan::stan() for more details.
 #' @return Return a S4 class SMNlmecfit object. Using function \code{SMNlmec.summary()} to obtain the estimation of parameters and model selection criteria. The SMNlmecfit include:
